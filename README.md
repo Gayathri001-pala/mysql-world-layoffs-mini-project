@@ -12,9 +12,12 @@ The goal was to practice real-world data cleaning techniques and prepare messy d
 - Trimmed spaces and replaced empty fields with NULLs
 - Deleted incomplete records
 
-## 📁 Files Included
-- `layoffs_data_cleaning.sql` → full SQL cleaning script  
-- `world_layoffs_sample.csv` → dataset 
+## 📂 Project Files
+
+- [layoffs_data_cleaning.sql](layoffs_data_cleaning.sql) → MySQL cleaning script  
+- [world_layoffs_raw.csv](world_layoffs_raw.csv) → Raw dataset before cleaning  
+- [world_layoffs_cleaned.csv](world_layoffs_cleaned.csv) → Cleaned dataset after transformation
+
 
 ## 📚 Tools Used
 - MySQL  
